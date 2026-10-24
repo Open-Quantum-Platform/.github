@@ -7,10 +7,9 @@ nonadiabatic dynamics, and QM/MM calculations in one program.
 
 ### Install
 
-- **Standalone engine 1.3.1** for Linux, macOS, and Windows:
-  [openqp-releases](https://github.com/Open-Quantum-Platform/openqp-releases/releases/latest).
-  Unpack and run; nothing to install.
-- **Python package:** `pip install openqp`. PyPI currently provides 1.2.1.
+Download the standalone engine for Linux, macOS, or Windows from
+[openqp-releases](https://github.com/Open-Quantum-Platform/openqp-releases/releases/latest).
+Unpack and run; nothing to install.
 
 ### Learn
 
@@ -33,7 +32,7 @@ Ecosystem." *J. Chem. Theory Comput.* 2024.
 
 ### License
 
-OpenQP 1.3.x is free for qualifying non-commercial academic research and
+OpenQP is free for qualifying non-commercial academic research and
 teaching under the
 [OpenQP Research License 1.0](https://github.com/Open-Quantum-Platform/openqp-releases/blob/main/LICENSE).
 Commercial use requires a separate written license from Open Quantum Inc.
